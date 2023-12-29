@@ -19,3 +19,5 @@ The Project, will contains:<br>
 •	Shopping Cart<br>
 •	Order Management<br>
 •	Payment <br>
+
+![home](https://github.com/becharakfoury/Full-NetCore6-Project/assets/81804866/00c3dfda-a010-4b7b-92da-2788c3065e58)
