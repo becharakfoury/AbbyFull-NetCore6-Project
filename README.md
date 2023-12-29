@@ -12,6 +12,7 @@ This is a Full ASP.NET Core (.NET 6) Project using VS 2022. That will cover:<br>
 •	Authentication and Authorization in ASP.NET Core (.NET 6)<br>
 •	Sessions in ASP.NET Core (.NET 6)<br>
 •	Data Seeding and deployment<br>
+• Datatables use with API's<br>
 
 The Project, will contains:<br>
 •	User Registration<br>
