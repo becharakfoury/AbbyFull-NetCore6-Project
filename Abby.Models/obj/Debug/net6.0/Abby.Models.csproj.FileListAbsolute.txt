@@ -1,0 +1,11 @@
+E:\VS2022Projects\AbbyFull\Abby.Models\bin\Debug\net6.0\Abby.Models.deps.json
+E:\VS2022Projects\AbbyFull\Abby.Models\bin\Debug\net6.0\Abby.Models.dll
+E:\VS2022Projects\AbbyFull\Abby.Models\bin\Debug\net6.0\Abby.Models.pdb
+E:\VS2022Projects\AbbyFull\Abby.Models\obj\Debug\net6.0\Abby.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022Projects\AbbyFull\Abby.Models\obj\Debug\net6.0\Abby.Models.AssemblyInfoInputs.cache
+E:\VS2022Projects\AbbyFull\Abby.Models\obj\Debug\net6.0\Abby.Models.AssemblyInfo.cs
+E:\VS2022Projects\AbbyFull\Abby.Models\obj\Debug\net6.0\Abby.Models.csproj.CoreCompileInputs.cache
+E:\VS2022Projects\AbbyFull\Abby.Models\obj\Debug\net6.0\Abby.Models.dll
+E:\VS2022Projects\AbbyFull\Abby.Models\obj\Debug\net6.0\refint\Abby.Models.dll
+E:\VS2022Projects\AbbyFull\Abby.Models\obj\Debug\net6.0\Abby.Models.pdb
+E:\VS2022Projects\AbbyFull\Abby.Models\obj\Debug\net6.0\ref\Abby.Models.dll

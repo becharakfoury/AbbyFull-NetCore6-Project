@@ -1,0 +1,38 @@
+﻿@page
+@model AbbyWeb.Pages.Admin.Categories.EditModel
+@{
+}
+
+<form method="post">
+    <input hidden asp-for="_Category.Id" />
+
+
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary"><i class="bi bi-plus-square"></i> Edit Category</h2>
+            <hr />
+        </div>
+
+        <div asp-validation-summary="All"></div>
+
+        <div class="mb-3">
+            <label asp-for="@Model._Category.Name">Name</label>
+            <input asp-for="@Model._Category.Name" type="text" class="form-control"  />
+            <span asp-validation-for="@Model._Category.Name" class="text-danger"></span> 
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model._Category.DisplayOrder">Display Order</label>
+            <input asp-for="@Model._Category.DisplayOrder" type="text" class="form-control" />
+            <span asp-validation-for="@Model._Category.DisplayOrder" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:150px" >Update</button>
+        <a asp-page="Index" class="btn btn-secondary" style="width:200px">Back to List</a>
+
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

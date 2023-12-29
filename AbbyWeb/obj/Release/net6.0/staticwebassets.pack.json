@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\AbbyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AbbyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\css\\bootswatch_Superhero.css",
+      "PackagePath": "staticwebassets\\css\\bootswatch_Superhero.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\menuItems\\045c3778-cb32-40b3-a8ec-ec60535ce195.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\045c3778-cb32-40b3-a8ec-ec60535ce195.jpg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\menuItems\\0fb6457e-fdf5-49ab-a711-e022e3158e6c.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\0fb6457e-fdf5-49ab-a711-e022e3158e6c.jpg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\menuItems\\11d6da5a-19cf-4107-99ed-b28e2d925fc8.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\11d6da5a-19cf-4107-99ed-b28e2d925fc8.jpg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\menuItems\\16438bcc-c863-4256-b633-39e3fd12742a.jpeg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\16438bcc-c863-4256-b633-39e3fd12742a.jpeg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\menuItems\\431467b0-34fe-438a-8fa8-df66677a9068.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\431467b0-34fe-438a-8fa8-df66677a9068.jpg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\menuItems\\4f4441c1-3df8-4d01-83af-e98f1f442388.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\4f4441c1-3df8-4d01-83af-e98f1f442388.jpg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\menuItems\\507fe1fc-3668-48fb-87cb-4da793dc6723.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\507fe1fc-3668-48fb-87cb-4da793dc6723.jpg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\menuItems\\5a27bddb-499d-4d39-8fc4-75ddd58426ff.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\5a27bddb-499d-4d39-8fc4-75ddd58426ff.jpg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\menuItems\\89386073-16f7-40f2-8d5f-5d5065e9b1df.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\89386073-16f7-40f2-8d5f-5d5065e9b1df.jpg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\menuItems\\eae5dfdd-be3c-4a2d-a1f2-800e342a0e1d.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\eae5dfdd-be3c-4a2d-a1f2-800e342a0e1d.jpg"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\mild.png",
+      "PackagePath": "staticwebassets\\images\\mild.png"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\spicy.png",
+      "PackagePath": "staticwebassets\\images\\spicy.png"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\images\\verySpicy.png",
+      "PackagePath": "staticwebassets\\images\\verySpicy.png"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\js\\menuItem.js",
+      "PackagePath": "staticwebassets\\js\\menuItem.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\js\\orderList.js",
+      "PackagePath": "staticwebassets\\js\\orderList.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap  OLD\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\VS2022Projects\\AbbyFull\\AbbyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.AbbyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.AbbyWeb.props",
+      "PackagePath": "build\\AbbyWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AbbyWeb.props",
+      "PackagePath": "buildMultiTargeting\\AbbyWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.AbbyWeb.props",
+      "PackagePath": "buildTransitive\\AbbyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

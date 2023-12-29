@@ -1,0 +1,12 @@
+E:\VS2022Projects\AbbyFull\Abby.Utility\bin\Release\net6.0\Abby.Utility.deps.json
+E:\VS2022Projects\AbbyFull\Abby.Utility\bin\Release\net6.0\Abby.Utility.dll
+E:\VS2022Projects\AbbyFull\Abby.Utility\bin\Release\net6.0\Abby.Utility.pdb
+E:\VS2022Projects\AbbyFull\Abby.Utility\obj\Release\net6.0\Abby.Utility.csproj.AssemblyReference.cache
+E:\VS2022Projects\AbbyFull\Abby.Utility\obj\Release\net6.0\Abby.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022Projects\AbbyFull\Abby.Utility\obj\Release\net6.0\Abby.Utility.AssemblyInfoInputs.cache
+E:\VS2022Projects\AbbyFull\Abby.Utility\obj\Release\net6.0\Abby.Utility.AssemblyInfo.cs
+E:\VS2022Projects\AbbyFull\Abby.Utility\obj\Release\net6.0\Abby.Utility.csproj.CoreCompileInputs.cache
+E:\VS2022Projects\AbbyFull\Abby.Utility\obj\Release\net6.0\Abby.Utility.dll
+E:\VS2022Projects\AbbyFull\Abby.Utility\obj\Release\net6.0\refint\Abby.Utility.dll
+E:\VS2022Projects\AbbyFull\Abby.Utility\obj\Release\net6.0\Abby.Utility.pdb
+E:\VS2022Projects\AbbyFull\Abby.Utility\obj\Release\net6.0\ref\Abby.Utility.dll

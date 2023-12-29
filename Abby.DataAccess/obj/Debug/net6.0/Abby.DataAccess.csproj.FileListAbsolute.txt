@@ -1,0 +1,17 @@
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.deps.json
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.runtimeconfig.json
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.dll
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.pdb
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\bin\Debug\net6.0\Abby.Models.dll
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\bin\Debug\net6.0\Abby.Models.pdb
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.AssemblyReference.cache
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.AssemblyInfoInputs.cache
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.AssemblyInfo.cs
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.CoreCompileInputs.cache
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.CopyComplete
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.dll
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\refint\Abby.DataAccess.dll
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.pdb
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.genruntimeconfig.cache
+E:\VS2022Projects\AbbyFull\Abby.DataAccess\obj\Debug\net6.0\ref\Abby.DataAccess.dll
