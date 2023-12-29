@@ -21,3 +21,27 @@ The Project, will contains:<br>
 •	Payment <br>
 
 ![home](https://github.com/becharakfoury/Full-NetCore6-Project/assets/81804866/00c3dfda-a010-4b7b-92da-2788c3065e58)
+
+![cart](https://github.com/becharakfoury/Full-NetCore6-Project/assets/81804866/c2a236bd-b5f7-4de4-abed-0532cda288af)
+
+![ManageOrder](https://github.com/becharakfoury/Full-NetCore6-Project/assets/81804866/2f380ea7-cb44-4825-96e0-16469c825ad4)
+
+![OrderList](https://github.com/becharakfoury/Full-NetCore6-Project/assets/81804866/7cde5d46-5629-43d5-9c78-581453736378)
+
+![addtocarte](https://github.com/becharakfoury/Full-NetCore6-Project/assets/81804866/c72da2b5-d1ed-4bdb-9092-fe76ec27f9b6)
+
+![payment](https://github.com/becharakfoury/Full-NetCore6-Project/assets/81804866/483ee8a1-d7a7-47a8-941a-54eb77ef6e0e)
+
+![summary](https://github.com/becharakfoury/Full-NetCore6-Project/assets/81804866/519758bd-0651-4b71-b9d3-60ad62110d69)
+
+![adminmenu](https://github.com/becharakfoury/Full-NetCore6-Project/assets/81804866/92773344-f01f-4e6a-9fe2-e3f0b72180fd)
+
+
+
+
+
+
+
+
+
+
